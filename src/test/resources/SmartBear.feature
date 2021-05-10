@@ -248,24 +248,13 @@ Feature:  There will be SmartBear Website Scenarios
 
     Examples:
     |product    | quantity| CName| street     |city     |state|zip    |CType              |CNumber    |Expire|
-    |MyMoney    | 10      | erk  |12 Fake st  |Toronto  |CO   |123456 |MasterCard         |123456789  |12/25 |
-    |FamilyAlbum| 15      | erez |13 Fake st  |Baltimore|MD   |369854 |Visa               |698855522  |12/26 |
-    |MyMoney    | 12      | erk  |12 Fake st  |Toronto  |CO   |123456 |MasterCard         |123456789  |12/25 |
-    |MyMoney    | 13      | erk  |12 Fake st  |Toronto  |CO   |123456 | AmericanExpress   |123456789  |12/25 |
+    |MyMoney    | 10      | erk  |12 Fake st  |         |CO   |123456 |MasterCard         |123456789  |12/25 |
+#    |FamilyAlbum| 15      | erez |13 Fake st  |Baltimore|MD   |369854 |Visa               |698855522  |12/26 |
+#    |MyMoney    | 12      | erk  |12 Fake st  |Toronto  |CO   |123456 |MasterCard         |123456789  |12/25 |
+#    |MyMoney    | 13      | erk  |12 Fake st  |Toronto  |CO   |123456 | AmericanExpress   |123456789  |12/25 |
 
 
 
-
-    #Deta Driven Development/Testing
-
-
-
-   # Project from scratch
-     # Pages
-     # Runner
-     # StepsDefinitions
-     # utils
-  # Feature file
 
 
 
