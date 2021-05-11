@@ -38,8 +38,39 @@ public class Guru99Login {
 
         Guru99Page guru99Page = new Guru99Page();
         guru99Page.switchToAlert(message);
+    }
 
+    //========================================================================
+    @When("The user wants to username as {string} and password as {string}")
+    public void the_user_wants_to_username_as_and_password_as(String username, String password) {
+        Guru99Page guru99Page = new Guru99Page();
+        guru99Page.setUsername2Box(username);
+        guru99Page.setPassword2(password);
+        guru99Page.setSbtBtn2();
+    }
+    @Then("The user wants to see Mini Statement")
+    public void the_user_wants_to_see_mini_statement() {
+        Guru99Page guru99Page = new Guru99Page();
+        guru99Page.setMiniProject();
+    }
+    @Then("The user wants to see account number as {string}")
+    public void the_user_wants_to_see_account_number_as(String accountNumber) {
+        Guru99Page guru99Page = new Guru99Page();
+        guru99Page.setSelectAccount(accountNumber);
 
     }
+    @Then("The user wants submit")
+    public void the_user_wants_submit() {
+        Guru99Page guru99Page = new Guru99Page();
+        guru99Page.setSmt();
+
+    }
+    @Then("The user wants to verify message as {string}")
+    public void the_user_wants_to_verify_message_as(String message) {
+
+        Guru99Page guru99Page = new Guru99Page();
+        guru99Page.verifyMessage(message);
+    }
+
 
 }

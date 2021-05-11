@@ -18,7 +18,7 @@ public class Hooks  extends BrowserUtils{
           Driver.getDriver();
           logger.info("============Chrome Driver Working fine==============");
           driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-          driver.get(ConfigurationsReader.getProperties("url4"));
+          driver.get(ConfigurationsReader.getProperties("url5"));
 
     }
 

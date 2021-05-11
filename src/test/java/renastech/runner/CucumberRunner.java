@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources",
         glue = "/renastech",
         dryRun=false,  //When it is false it is inactive
-        tags = "@guru99",
+        tags = "@guru991",
         plugin = {
                 "html:target/default-cucumber-reports.html",
                 "json:target/cucumber.json",
@@ -49,7 +49,7 @@ public class CucumberRunner {
  *
  *     Finish before 9:10 pm
  *
- *      Break time at 8:50 - 9 pm
+ *
  *
  *
  *

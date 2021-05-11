@@ -11,3 +11,28 @@
 2021-05-10 20:36:25 INFO  Guru99Page:43 - clicking button
 2021-05-10 20:36:26 INFO  Guru99Login:33 - Clicked the login button
 2021-05-10 20:36:28 INFO  Guru99Page:52 - Switching the alert
+2021-05-10 21:43:24 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 21:43:26 INFO  Guru99Login:16 - ======Login to Guru99======
+2021-05-10 21:43:28 INFO  Guru99Page:86 - Enter the username
+2021-05-10 21:43:30 INFO  Guru99Page:91 - Entered password
+2021-05-10 21:43:32 INFO  Guru99Page:97 - Login the application
+2021-05-10 21:45:11 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 21:45:13 INFO  Guru99Login:16 - ======Login to Guru99======
+2021-05-10 21:45:15 INFO  Guru99Page:86 - Enter the username
+2021-05-10 21:45:17 INFO  Guru99Page:91 - Entered password
+2021-05-10 21:45:19 INFO  Guru99Page:97 - Login the application
+2021-05-10 21:47:51 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 21:47:53 INFO  Guru99Login:16 - ======Login to Guru99======
+2021-05-10 21:47:55 INFO  Guru99Page:86 - Enter the username
+2021-05-10 21:47:57 INFO  Guru99Page:91 - Entered password
+2021-05-10 21:47:59 INFO  Guru99Page:97 - Login the application
+2021-05-10 21:48:01 INFO  Guru99Page:103 - Clicked Mini statement
+2021-05-10 21:50:48 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 21:50:50 INFO  Guru99Login:16 - ======Login to Guru99======
+2021-05-10 21:50:52 INFO  Guru99Page:86 - Enter the username
+2021-05-10 21:50:55 INFO  Guru99Page:91 - Entered password
+2021-05-10 21:50:57 INFO  Guru99Page:97 - Login the application
+2021-05-10 21:51:00 INFO  Guru99Page:103 - Clicked Mini statement
+2021-05-10 21:51:01 INFO  Guru99Page:111 - Select account number3308
+2021-05-10 21:51:03 INFO  Guru99Page:117 - Click submit button after select account
+2021-05-10 21:51:03 INFO  Guru99Page:125 - Message verified
