@@ -18,7 +18,7 @@ public class Hooks  extends BrowserUtils{
           Driver.getDriver();
           logger.info("============Chrome Driver Working fine==============");
           driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-          driver.get(ConfigurationsReader.getProperties("url3"));
+          driver.get(ConfigurationsReader.getProperties("url4"));
 
     }
 
@@ -38,7 +38,17 @@ public class Hooks  extends BrowserUtils{
      *   Requirement:
      *   use log4j in page class
      *
-     *     // 10 min
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *     // break until 8 pm
      *
      *
      * ***/

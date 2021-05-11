@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources",
         glue = "/renastech",
         dryRun=false,  //When it is false it is inactive
-        tags = "@TC_16",
+        tags = "@guru99",
         plugin = {
                 "html:target/default-cucumber-reports.html",
                 "json:target/cucumber.json",
@@ -22,9 +22,43 @@ import org.junit.runner.RunWith;
 )
 public class CucumberRunner {
 
-
-
-
-
-
 }
+
+/**
+ *
+ *
+ *
+ *
+ *
+ *
+ * 1: Go to http://demo.guru99.com/Agile_Project/Agi_V1/
+ *
+ * 2: login with
+ *    UserID : 1303
+ *    Password : Guru99
+ *
+ * 3: Go to Mini Statement
+ *
+ * 4: Select account number  "3308"
+ *
+ * 5: Submit
+ *
+ * 6:You need to verify message "Last Three Transaction Details for Account No: 3308"
+ *
+ * 7: Use log4j
+ *
+ *     Finish before 9:10 pm
+ *
+ *      Break time at 8:50 - 9 pm
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * ****/

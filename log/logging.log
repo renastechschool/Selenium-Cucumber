@@ -1,2 +1,13 @@
 2021-05-10 18:57:04 INFO  Driver:25 - rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 2021-05-10 19:28:19 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 20:18:09 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 20:25:55 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 20:27:38 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 20:28:48 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 20:36:18 INFO  Hooks:19 - ============Chrome Driver Working fine==============
+2021-05-10 20:36:20 INFO  Guru99Login:16 - ======Login to Guru99======
+2021-05-10 20:36:22 ERROR Guru99Login:24 - Setting password
+2021-05-10 20:36:24 INFO  Guru99Page:36 - Entering password
+2021-05-10 20:36:25 INFO  Guru99Page:43 - clicking button
+2021-05-10 20:36:26 INFO  Guru99Login:33 - Clicked the login button
+2021-05-10 20:36:28 INFO  Guru99Page:52 - Switching the alert
